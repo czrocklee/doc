@@ -1,0 +1,24 @@
+{
+  "build_time_utc": "1980-01-01T00:00:00Z",
+  "build_type": "Release",
+  "cmdline": "/home/rocklee/dev/netbench/build/release/app/asio_uring_pingpong --initiator --address 192.168.50.190:19004 --msg-size 32 --buffer-size 32 --warmup-count 10000 --duration-secs 30 --max-samples 0 --target-msg-rate 0 --metric-hud-interval-secs 0 --results-dir /home/rocklee/dev/netbench/results/pingpong_latency_by_msg_size_2025-10-30T22-56-50Z/asio_uring/msg_size_32 --cpu-id 3 --tag scenario=pingpong_latency_by_msg_size --tag impl=asio_uring --tag msg_size=32",
+  "compiler_id": "GNU",
+  "compiler_ver": "14.3.0",
+  "git_commit": "1959df18c70ba21957253e6dcffe5401440a8f02",
+  "git_describe": "1959df1-dirty",
+  "machine": {
+    "cpu_model": "AMD Ryzen 9 9950X 16-Core Processor",
+    "cpuset": [
+      3
+    ],
+    "hw_threads": 32,
+    "kernel": "6.12.55",
+    "os_name": "NixOS",
+    "os_version": "25.05"
+  },
+  "tags": [
+    "scenario=pingpong_latency_by_msg_size",
+    "impl=asio_uring",
+    "msg_size=32"
+  ]
+}

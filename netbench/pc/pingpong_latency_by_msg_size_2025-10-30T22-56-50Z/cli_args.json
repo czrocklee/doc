@@ -1,0 +1,21 @@
+{
+  "app_root": "/home/rocklee/dev/netbench/build/release/app",
+  "receiver_app_root": null,
+  "client_app_root": null,
+  "receiver_host": "local",
+  "client_host": "local",
+  "out": "/home/rocklee/dev/netbench/results",
+  "scenario": [
+    "pingpong_latency_by_msg_size"
+  ],
+  "impl": null,
+  "impl_arg": [],
+  "dry_run": false,
+  "auto_cpu_ids": true,
+  "fixed_params": [],
+  "scenario_fixed": [],
+  "auto_plot": true,
+  "plot_relative_to": "bsd",
+  "plot_out_dir": null,
+  "scenario_var_values": []
+}
