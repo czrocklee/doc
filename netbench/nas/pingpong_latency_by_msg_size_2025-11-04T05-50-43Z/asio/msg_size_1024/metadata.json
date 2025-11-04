@@ -1,0 +1,24 @@
+{
+  "build_time_utc": "1980-01-01T00:00:00Z",
+  "build_type": "Release",
+  "cmdline": "/home/rocklee/netbench/build/release/app/asio_pingpong --initiator --address 192.168.50.131:19004 --msg-size 1024 --buffer-size 1024 --warmup-count 10000 --duration-secs 30 --max-samples 0 --metric-hud-interval-secs 0 --results-dir /home/rocklee/netbench/results/pingpong_latency_by_msg_size_2025-11-04T05-50-43Z/asio/msg_size_1024 --cpu-id 3 --tag scenario=pingpong_latency_by_msg_size --tag impl=asio --tag msg_size=1024",
+  "compiler_id": "GNU",
+  "compiler_ver": "14.3.0",
+  "git_commit": "27ab238df8d1c3c28222048c1150417d7bf81f3f",
+  "git_describe": "27ab238",
+  "machine": {
+    "cpu_model": "Intel(R) Xeon(R) CPU D-1521 @ 2.40GHz",
+    "cpuset": [
+      3
+    ],
+    "hw_threads": 8,
+    "kernel": "6.12.0-55.41.1.el10_0.x86_64",
+    "os_name": "Red Hat Enterprise Linux",
+    "os_version": "10.0"
+  },
+  "tags": [
+    "scenario=pingpong_latency_by_msg_size",
+    "impl=asio",
+    "msg_size=1024"
+  ]
+}

@@ -1,0 +1,15 @@
+Target address: 192.168.50.190:19004
+Bind address: not set
+Senders: 1
+Connections per sender: 1
+Message size: 64 bytes
+Messages per second per sender: 1000000
+Stop after n messages: disabled
+Stop after n seconds: 30
+Nodelay: enabled
+Drain: disabled
+Socket recv buffer size: 4194304 bytes
+Socket buffer size: 4194304 bytes
+Max send size: 4194304
+Connection 1919999872 bytes sent, 0 bytes drained.
+All senders stopped.

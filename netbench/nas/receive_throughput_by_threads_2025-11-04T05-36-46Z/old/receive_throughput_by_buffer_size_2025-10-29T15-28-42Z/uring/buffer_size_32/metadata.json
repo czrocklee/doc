@@ -1,0 +1,31 @@
+{
+  "build_time_utc": "1980-01-01T00:00:00Z",
+  "build_type": "Release",
+  "cmdline": "/home/rocklee/netbench/build/release/app/uring_receiver --address 192.168.50.131:19004 --buffer-size 32 --workers 1 --results-dir /home/rocklee/netbench/results/receive_throughput_by_buffer_size_2025-10-29T15-28-42Z/uring/buffer_size_32 --metric-hud-interval-secs 0 --collect-latency-every-n-samples 0 --shutdown-on-disconnect --worker-cpu-ids 1 --tag scenario=receive_throughput_by_buffer_size --tag impl=uring --tag buffer_size=32",
+  "compiler_id": "GNU",
+  "compiler_ver": "14.3.0",
+  "git_commit": "1296b33667535b79d42876dbb954b5eae044957f",
+  "git_describe": "1296b33",
+  "machine": {
+    "cpu_model": "Intel(R) Xeon(R) CPU D-1521 @ 2.40GHz",
+    "cpuset": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "hw_threads": 8,
+    "kernel": "6.12.0-55.41.1.el10_0.x86_64",
+    "os_name": "Red Hat Enterprise Linux",
+    "os_version": "10.0"
+  },
+  "tags": [
+    "scenario=receive_throughput_by_buffer_size",
+    "impl=uring",
+    "buffer_size=32"
+  ]
+}

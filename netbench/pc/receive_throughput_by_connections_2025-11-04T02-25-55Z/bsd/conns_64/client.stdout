@@ -1,0 +1,78 @@
+Target address: 192.168.50.190:19004
+Bind address: not set
+Senders: 1
+Connections per sender: 64
+Message size: 64 bytes
+Messages per second per sender: unlimited
+Stop after n messages: disabled
+Stop after n seconds: 30
+Nodelay: disabled
+Drain: disabled
+Socket recv buffer size: 4194304 bytes
+Socket buffer size: 4194304 bytes
+Max send size: 4194304
+Connection 265766274 bytes sent, 0 bytes drained.
+Connection 265372930 bytes sent, 0 bytes drained.
+Connection 264850754 bytes sent, 0 bytes drained.
+Connection 264977794 bytes sent, 0 bytes drained.
+Connection 264519874 bytes sent, 0 bytes drained.
+Connection 264775362 bytes sent, 0 bytes drained.
+Connection 264913858 bytes sent, 0 bytes drained.
+Connection 264713218 bytes sent, 0 bytes drained.
+Connection 264389122 bytes sent, 0 bytes drained.
+Connection 264648130 bytes sent, 0 bytes drained.
+Connection 264388930 bytes sent, 0 bytes drained.
+Connection 264253442 bytes sent, 0 bytes drained.
+Connection 264520642 bytes sent, 0 bytes drained.
+Connection 264257986 bytes sent, 0 bytes drained.
+Connection 263932482 bytes sent, 0 bytes drained.
+Connection 264520770 bytes sent, 0 bytes drained.
+Connection 264250562 bytes sent, 0 bytes drained.
+Connection 264191618 bytes sent, 0 bytes drained.
+Connection 264454402 bytes sent, 0 bytes drained.
+Connection 264192898 bytes sent, 0 bytes drained.
+Connection 264387650 bytes sent, 0 bytes drained.
+Connection 264127618 bytes sent, 0 bytes drained.
+Connection 264192514 bytes sent, 0 bytes drained.
+Connection 264192706 bytes sent, 0 bytes drained.
+Connection 264258242 bytes sent, 0 bytes drained.
+Connection 264323522 bytes sent, 0 bytes drained.
+Connection 264513602 bytes sent, 0 bytes drained.
+Connection 263996610 bytes sent, 0 bytes drained.
+Connection 264192962 bytes sent, 0 bytes drained.
+Connection 264447810 bytes sent, 0 bytes drained.
+Connection 264454594 bytes sent, 0 bytes drained.
+Connection 264192258 bytes sent, 0 bytes drained.
+Connection 264389058 bytes sent, 0 bytes drained.
+Connection 264129090 bytes sent, 0 bytes drained.
+Connection 264127874 bytes sent, 0 bytes drained.
+Connection 264386370 bytes sent, 0 bytes drained.
+Connection 264120258 bytes sent, 0 bytes drained.
+Connection 264193346 bytes sent, 0 bytes drained.
+Connection 264062018 bytes sent, 0 bytes drained.
+Connection 264382402 bytes sent, 0 bytes drained.
+Connection 264194498 bytes sent, 0 bytes drained.
+Connection 264258434 bytes sent, 0 bytes drained.
+Connection 263991170 bytes sent, 0 bytes drained.
+Connection 264119234 bytes sent, 0 bytes drained.
+Connection 263996866 bytes sent, 0 bytes drained.
+Connection 264316738 bytes sent, 0 bytes drained.
+Connection 264394370 bytes sent, 0 bytes drained.
+Connection 263930818 bytes sent, 0 bytes drained.
+Connection 263858242 bytes sent, 0 bytes drained.
+Connection 264060098 bytes sent, 0 bytes drained.
+Connection 264257474 bytes sent, 0 bytes drained.
+Connection 264324674 bytes sent, 0 bytes drained.
+Connection 264193154 bytes sent, 0 bytes drained.
+Connection 264257730 bytes sent, 0 bytes drained.
+Connection 263935170 bytes sent, 0 bytes drained.
+Connection 263864514 bytes sent, 0 bytes drained.
+Connection 263936578 bytes sent, 0 bytes drained.
+Connection 263866178 bytes sent, 0 bytes drained.
+Connection 263932482 bytes sent, 0 bytes drained.
+Connection 264057282 bytes sent, 0 bytes drained.
+Connection 263800258 bytes sent, 0 bytes drained.
+Connection 264127042 bytes sent, 0 bytes drained.
+Connection 263865922 bytes sent, 0 bytes drained.
+Connection 263803586 bytes sent, 0 bytes drained.
+All senders stopped.

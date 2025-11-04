@@ -1,0 +1,59 @@
+{
+  "name": "pingpong_latency_by_msg_size",
+  "title": "Pingpong RTT vs Message Size",
+  "fixed": {
+    "address": "192.168.50.131:19004",
+    "so_rcvbuf_size": "4m",
+    "so_sndbuf_size": "4m",
+    "duration_sec": 30,
+    "msg_size": 64,
+    "senders": 1,
+    "msgs_per_sec": 0,
+    "conns": 1,
+    "drain": false,
+    "nodelay": false,
+    "max_send_size": "4m",
+    "sender_cpus": null,
+    "warmup_count": 10000,
+    "max_samples": 0,
+    "pp_acceptor_cpu": null,
+    "pp_initiator_cpu": null,
+    "pp_uring_sq_entries": 0,
+    "pp_acceptor_sqpoll_cpu": null,
+    "pp_initiator_sqpoll_cpu": null,
+    "workers": 1,
+    "busy_spin": false,
+    "echo": "none",
+    "buffer_size": 64,
+    "collect_latency_every_n_samples": 0,
+    "metric_hud_interval_secs": 0,
+    "worker_cpus": null,
+    "simulated_workload_delay_microsecs": 0.0,
+    "bsd_read_limit": 65536,
+    "uring_buffer_count": 32,
+    "uring_per_conn_buffer_pool": false,
+    "uring_zerocopy": false,
+    "uring_sq_entries": 0,
+    "uring_cq_entries": -1
+  },
+  "var_key": "msg_size",
+  "var_key_label": null,
+  "var_values": [
+    16,
+    64,
+    256,
+    1024,
+    4096
+  ],
+  "implementations": [
+    "bsd",
+    "uring",
+    "asio",
+    "asio_uring"
+  ],
+  "mode": "pingpong",
+  "impl_extra": {},
+  "linkages": {
+    "buffer_size": "callable:<lambda>"
+  }
+}

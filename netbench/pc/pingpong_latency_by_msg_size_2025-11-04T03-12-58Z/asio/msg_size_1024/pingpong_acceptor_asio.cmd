@@ -1,0 +1,1 @@
+/home/rocklee/dev/netbench/build/release/app/asio_pingpong --address 192.168.50.190:19004 --buffer-size 1024 --cpu-id 1

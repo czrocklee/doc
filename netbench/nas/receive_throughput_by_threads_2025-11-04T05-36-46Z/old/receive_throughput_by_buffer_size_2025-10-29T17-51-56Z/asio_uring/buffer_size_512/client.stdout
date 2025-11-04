@@ -1,0 +1,14 @@
+Target address: 192.168.50.131:19004
+Bind address: not set
+Senders: 1
+Connections per sender: 1
+Message size: 32 bytes
+Messages per second per sender: unlimited
+Stop after n messages: disabled
+Stop after n seconds: 30
+Nodelay: disabled
+Drain: disabled
+Socket buffer size: system default
+Max batch size: 1024
+Connection 9175086944 bytes sent, 0 bytes drained.
+All senders stopped.

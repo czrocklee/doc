@@ -1,0 +1,10 @@
+Starting 1 worker threads on 192.168.50.131:19004...
+Main thread acceptor listening on 192.168.50.131:19004
+worker thread 139657962579648 started.
+All clients disconnected, server stopped.
+Server has shut down gracefully.
+Run metadata written to "/home/rocklee/netbench/results/receive_latency_by_message_rate_2025-11-04T04-44-25Z/asio/msgs_per_sec_1000000/metadata.json"
+Lossless latency histogram for worker 0 written to "/home/rocklee/netbench/results/receive_latency_by_message_rate_2025-11-04T04-44-25Z/asio/msgs_per_sec_1000000/0.hdr"
+Metrics written to "/home/rocklee/netbench/results/receive_latency_by_message_rate_2025-11-04T04-44-25Z/asio/msgs_per_sec_1000000/metrics.json"
+Total messages received: 18684974
+worker thread 139657962579648 stopped.

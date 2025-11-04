@@ -1,0 +1,50 @@
+{
+  "name": "receive_throughput_by_buffer_size",
+  "title": "Receive Throughput vs Buffer Size",
+  "fixed": {
+    "address": "192.168.50.131:19004",
+    "duration_sec": 30,
+    "msg_size": 32,
+    "senders": 1,
+    "msgs_per_sec": 0,
+    "conns": 1,
+    "drain": false,
+    "nodelay": false,
+    "max_send_batch_size": 1024,
+    "sender_cpus": null,
+    "warmup_count": 10000,
+    "max_samples": 0,
+    "pp_acceptor_cpu": null,
+    "pp_initiator_cpu": null,
+    "pp_acceptor_sqpoll_cpu": null,
+    "pp_initiator_sqpoll_cpu": null,
+    "workers": 1,
+    "busy_spin": false,
+    "echo": "none",
+    "buffer_size": 32,
+    "recv_so_rcvbuf": 0,
+    "send_so_sndbuf": 0,
+    "collect_latency_every_n_samples": 0,
+    "metric_hud_interval_secs": 0,
+    "worker_cpus": null,
+    "bsd_read_limit": 0,
+    "uring_buffer_count": 0,
+    "uring_per_conn_buffer_pool": false
+  },
+  "var_key": "buffer_size",
+  "var_values": [
+    32,
+    128,
+    256,
+    512
+  ],
+  "implementations": [
+    "bsd",
+    "uring",
+    "asio",
+    "asio_uring"
+  ],
+  "mode": "receiver",
+  "impl_extra": {},
+  "linkages": {}
+}

@@ -1,0 +1,9 @@
+Starting 1 worker threads on 192.168.50.190:19004...
+Main thread acceptor listening on 192.168.50.190:19004
+worker thread 139648332977856 started.
+worker thread 139648332977856 stopped.
+All clients disconnected, server stopped.
+Server has shut down gracefully.
+Run metadata written to "/home/rocklee/dev/netbench/results/receive_throughput_by_buffer_size_2025-11-04T02-03-23Z/uring/buffer_size_64/metadata.json"
+Metrics written to "/home/rocklee/dev/netbench/results/receive_throughput_by_buffer_size_2025-11-04T02-03-23Z/uring/buffer_size_64/metrics.json"
+Total messages received: 389474582

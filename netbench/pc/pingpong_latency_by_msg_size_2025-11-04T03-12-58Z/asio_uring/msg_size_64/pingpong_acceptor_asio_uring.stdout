@@ -1,0 +1,6 @@
+Running as acceptor, listening on 192.168.50.190:19004
+cpu thread affinity set to 1
+worker thread 139967972632384 started with busy spin polling.
+Error receiving data: End of file
+worker thread 139967972632384 stopping.
+Pingpong has shut down gracefully.

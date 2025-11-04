@@ -1,1 +1,0 @@
-/home/rocklee/dev/netbench/build/release/app/uring_pingpong --address 192.168.50.190:19004 --buffer-size 2048 --cpu-id 1 --sqpoll-cpu-id 2

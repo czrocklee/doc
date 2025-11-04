@@ -1,1 +1,0 @@
-/home/rocklee/dev/netbench/build/release/app/bsd_pingpong --address 192.168.50.190:19004 --buffer-size 32 --cpu-id 1

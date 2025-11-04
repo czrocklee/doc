@@ -1,0 +1,9 @@
+Running as initiator, connecting to 192.168.50.131:19004
+cpu thread affinity set to 3
+worker thread 140127720968256 started with busy spin polling.
+Sample collection thread exiting
+worker thread 140127720968256 stopping.
+Lossless latency histogram for worker 0 written to "/home/rocklee/netbench/results/pingpong_latency_by_msg_size_2025-11-04T05-50-43Z/asio/msg_size_1024/0.hdr"
+Metrics written to "/home/rocklee/netbench/results/pingpong_latency_by_msg_size_2025-11-04T05-50-43Z/asio/msg_size_1024/metrics.json"
+Pingpong has shut down gracefully.
+Run metadata written to "/home/rocklee/netbench/results/pingpong_latency_by_msg_size_2025-11-04T05-50-43Z/asio/msg_size_1024/metadata.json"

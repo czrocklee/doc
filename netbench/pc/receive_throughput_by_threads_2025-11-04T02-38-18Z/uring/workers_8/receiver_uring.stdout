@@ -1,0 +1,23 @@
+Starting 8 worker threads on 192.168.50.190:19004...
+worker thread 140683910653632 started.
+worker thread 140683858560704 started.
+worker thread 140683806467776 started.
+worker thread 140683754374848 started.
+worker thread 140683702281920 started.
+worker thread 140683650188992 started.
+worker thread 140683598096064 started.
+Main thread acceptor listening on 192.168.50.190:19004
+worker thread 140683546003136 started.
+worker thread worker thread worker thread 140683806467776 stopped.140683910653632140683858560704 stopped.
+
+worker thread 140683754374848 stopped.
+ stopped.
+worker thread 140683702281920 stopped.
+worker thread 140683598096064 stopped.
+worker thread worker thread 140683546003136140683650188992 stopped. stopped.
+
+All clients disconnected, server stopped.
+Server has shut down gracefully.
+Run metadata written to "/home/rocklee/dev/netbench/results/receive_throughput_by_threads_2025-11-04T02-38-18Z/uring/workers_8/metadata.json"
+Metrics written to "/home/rocklee/dev/netbench/results/receive_throughput_by_threads_2025-11-04T02-38-18Z/uring/workers_8/metrics.json"
+Total messages received: 2894463283

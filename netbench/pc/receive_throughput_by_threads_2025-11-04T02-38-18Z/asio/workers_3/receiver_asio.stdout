@@ -1,0 +1,13 @@
+Starting 3 worker threads on 192.168.50.190:19004...
+worker thread 139796353640128 started.
+worker thread 139796303300288 started.
+worker thread Main thread acceptor listening on 192.168.50.190:19004
+139796252960448 started.
+All clients disconnected, server stopped.
+Server has shut down gracefully.
+Run metadata written to "/home/rocklee/dev/netbench/results/receive_throughput_by_threads_2025-11-04T02-38-18Z/asio/workers_3/metadata.json"
+Metrics written to "/home/rocklee/dev/netbench/results/receive_throughput_by_threads_2025-11-04T02-38-18Z/asio/workers_3/metrics.json"
+Total messages received: 466217403
+worker thread 139796353640128 stopped.
+worker thread 139796303300288 stopped.
+worker thread 139796252960448 stopped.
