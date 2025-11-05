@@ -1,0 +1,1 @@
+/home/rocklee/dev/netbench/build/release/app/client --address 192.168.50.190:19004 --senders 1 --conns 512 --msg-size 64 --msgs-per-sec 0 --stop-after-n-secs 30 --max-send-size 4m --metric-hud-interval-secs 0 --so-rcvbuf 4m --so-sndbuf 4m --sender-cpu-ids 2

@@ -1,0 +1,46 @@
+Target address: 192.168.50.190:19004
+Bind address: not set
+Senders: 1
+Connections per sender: 32
+Message size: 64 bytes
+Messages per second per sender: unlimited
+Stop after n messages: disabled
+Stop after n seconds: 30
+Nodelay: disabled
+Drain: disabled
+Socket recv buffer size: 4194304 bytes
+Socket buffer size: 4194304 bytes
+Max send size: 4194304
+Connection 511946178 bytes sent, 0 bytes drained.
+Connection 511026498 bytes sent, 0 bytes drained.
+Connection 511287660 bytes sent, 0 bytes drained.
+Connection 510959874 bytes sent, 0 bytes drained.
+Connection 511155906 bytes sent, 0 bytes drained.
+Connection 511079170 bytes sent, 0 bytes drained.
+Connection 510632642 bytes sent, 0 bytes drained.
+Connection 510633794 bytes sent, 0 bytes drained.
+Connection 510554690 bytes sent, 0 bytes drained.
+Connection 510699202 bytes sent, 0 bytes drained.
+Connection 510897986 bytes sent, 0 bytes drained.
+Connection 510434178 bytes sent, 0 bytes drained.
+Connection 510697090 bytes sent, 0 bytes drained.
+Connection 510830455 bytes sent, 0 bytes drained.
+Connection 510766455 bytes sent, 0 bytes drained.
+Connection 510369730 bytes sent, 0 bytes drained.
+Connection 510305474 bytes sent, 0 bytes drained.
+Connection 510828802 bytes sent, 0 bytes drained.
+Connection 510304642 bytes sent, 0 bytes drained.
+Connection 510230658 bytes sent, 0 bytes drained.
+Connection 510239106 bytes sent, 0 bytes drained.
+Connection 510305538 bytes sent, 0 bytes drained.
+Connection 510632770 bytes sent, 0 bytes drained.
+Connection 510178626 bytes sent, 0 bytes drained.
+Connection 510169282 bytes sent, 0 bytes drained.
+Connection 510629314 bytes sent, 0 bytes drained.
+Connection 510305794 bytes sent, 0 bytes drained.
+Connection 510697858 bytes sent, 0 bytes drained.
+Connection 510500290 bytes sent, 0 bytes drained.
+Connection 510567170 bytes sent, 0 bytes drained.
+Connection 510308994 bytes sent, 0 bytes drained.
+Connection 510045762 bytes sent, 0 bytes drained.
+All senders stopped.
